@@ -1,0 +1,10 @@
+{
+    "S3BucketName" : "mv-rt-bckt",
+    "S3AccessKey" : "AKInnnnnnnnnP",
+    "S3SecretKey" : "+qy",
+    "DataFileUrl" : "http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Movies_and_TV.csv",
+    "DataFileColumns" : ["r_id", "product_id", "rating", "unixtime"],
+    "S3DataFileName" : "ratings_movie_tv.csv",
+    "MetadataFileUrl" : "http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Movies_and_TV.json.gz"
+    "S3MetadataFileName" : "meta_movie_tv.json",
+}
