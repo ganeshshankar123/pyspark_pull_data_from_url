@@ -2,7 +2,7 @@
 
 
 
-Data
+Url for Data
 
 Ratings: 
 
@@ -16,7 +16,7 @@ Some descriptions on the dataset can be found at http://jmcauley.ucsd.edu/data/a
 
  
 
-Assignment
+Use case
 
 Create a data pipeline to extract data from the CSV/JSON files, and import it into a database/DFS in order to perform analysis.
 
